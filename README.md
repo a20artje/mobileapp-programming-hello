@@ -17,6 +17,7 @@ activity_main.xml
 och
 strings.xml
 
+
 ```
     ...
     android:text="@string/click_for_cookies"
